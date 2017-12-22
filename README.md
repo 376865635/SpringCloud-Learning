@@ -2,19 +2,6 @@
 
 本项目内容为Spring Cloud教程的程序样例。如您觉得该项目对您有用，欢迎点击右上方的**Star**按钮，给予支持！！
 
-- 我的博客：http://blog.didispace.com
-- **我的小密圈（深度交流与问答）：https://t.xiaomiquan.com/zfEiY3v**
-- GitHub：https://github.com/dyc87112/SpringCloud-Learning
-- Gitee：https://gitee.com/didispace/SpringCloud-Learning
-- Spring For All社区：http://spring4all.com/
-- Spring Boot系列博文：http://blog.didispace.com/categories/Spring-Boot/
-- Spring Cloud系列博文：http://blog.didispace.com/categories/Spring-Cloud/
-- **公益调试Eureka：http://eureka.didispace.com**
-
-**声明：本人已放弃"Spring Cloud中国社区"，该社区的任何行为均与本人无关。[Spring For All社区](http://spring4all.com/)是新组建的关于Spring的纯技术交流社区（涵盖Spring Boot、Spring Cloud等内容），集诸多开源爱好者和技术大牛贡献内容和交流问题。我们不夸大、不装逼、做最纯粹的技术分享！！！**
-
-本项目教程因做了版本更新，所以对目录结构做了调整，根目录下的各个章节为了博文链接兼容暂时保留。
-
 ## 教程列表
 
 #### 《Spring Cloud构建微服务架构》系列博文Dalston版
@@ -81,14 +68,3 @@
 - [基于Consul的分布式锁实现](http://blog.didispace.com/spring-cloud-consul-lock-and-semphore/)
 - [基于Consul的分布式信号量实现](http://blog.didispace.com/spring-cloud-consul-lock-and-semphore-2/)
 
-## 我的公众号
-
-![输入图片说明](http://git.oschina.net/uploads/images/2017/0105/082137_85109d07_437188.jpeg "在这里输入图片标题")
-
-## 推荐我的书
-
-![输入图片说明](https://git.oschina.net/uploads/images/2017/0416/233656_dd3bce94_437188.png "在这里输入图片标题")
-
-## 其他推荐
-
-- 我的《Spring Cloud基础教程》：https://github.com/dyc87112/SpringCloud-Learning
